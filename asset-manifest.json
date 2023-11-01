@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whatdoidonow-app/static/css/main.33d5b943.css",
+    "main.js": "/whatdoidonow-app/static/js/main.ffcd3997.js",
+    "static/js/787.49a89eed.chunk.js": "/whatdoidonow-app/static/js/787.49a89eed.chunk.js",
+    "index.html": "/whatdoidonow-app/index.html",
+    "main.33d5b943.css.map": "/whatdoidonow-app/static/css/main.33d5b943.css.map",
+    "main.ffcd3997.js.map": "/whatdoidonow-app/static/js/main.ffcd3997.js.map",
+    "787.49a89eed.chunk.js.map": "/whatdoidonow-app/static/js/787.49a89eed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d5b943.css",
+    "static/js/main.ffcd3997.js"
+  ]
+}
